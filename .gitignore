@@ -1,0 +1,10 @@
+ComputationalPhysics/bin/
+ComputationalPhysics/bin32
+ComputationalPhysics/bin64/
+packages/
+ComputationalPhysics/obj/
+ComputationalPhysicsTester/obj/
+ComputationalPhysicsTester/bin/
+SessionNetLib/bin/
+SessionNetLib/obj/
+Tester/obj/
